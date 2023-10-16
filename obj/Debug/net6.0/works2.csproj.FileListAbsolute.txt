@@ -1,0 +1,15 @@
+C:\Users\Шкарупин Егор\Desktop\#LES\Homeworks\works2\obj\Debug\net6.0\works2.csproj.AssemblyReference.cache
+C:\Users\Шкарупин Егор\Desktop\#LES\Homeworks\works2\obj\Debug\net6.0\works2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Шкарупин Егор\Desktop\#LES\Homeworks\works2\obj\Debug\net6.0\works2.AssemblyInfoInputs.cache
+C:\Users\Шкарупин Егор\Desktop\#LES\Homeworks\works2\obj\Debug\net6.0\works2.AssemblyInfo.cs
+C:\Users\Шкарупин Егор\Desktop\#LES\Homeworks\works2\obj\Debug\net6.0\works2.csproj.CoreCompileInputs.cache
+C:\Users\Шкарупин Егор\Desktop\#LES\Homeworks\works2\bin\Debug\net6.0\works2.exe
+C:\Users\Шкарупин Егор\Desktop\#LES\Homeworks\works2\bin\Debug\net6.0\works2.deps.json
+C:\Users\Шкарупин Егор\Desktop\#LES\Homeworks\works2\bin\Debug\net6.0\works2.runtimeconfig.json
+C:\Users\Шкарупин Егор\Desktop\#LES\Homeworks\works2\bin\Debug\net6.0\works2.dll
+C:\Users\Шкарупин Егор\Desktop\#LES\Homeworks\works2\bin\Debug\net6.0\works2.pdb
+C:\Users\Шкарупин Егор\Desktop\#LES\Homeworks\works2\obj\Debug\net6.0\works2.dll
+C:\Users\Шкарупин Егор\Desktop\#LES\Homeworks\works2\obj\Debug\net6.0\refint\works2.dll
+C:\Users\Шкарупин Егор\Desktop\#LES\Homeworks\works2\obj\Debug\net6.0\works2.pdb
+C:\Users\Шкарупин Егор\Desktop\#LES\Homeworks\works2\obj\Debug\net6.0\works2.genruntimeconfig.cache
+C:\Users\Шкарупин Егор\Desktop\#LES\Homeworks\works2\obj\Debug\net6.0\ref\works2.dll
